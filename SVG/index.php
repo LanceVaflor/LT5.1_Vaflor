@@ -258,7 +258,7 @@
               
             </g>
           </svg> 
-          <h3>Cirle, Rectangle, Polyline, Polygon and Ellipse</h3> 
+          <h3>Cirle,<br> Rectangle, Polyline,<br> Polygon and Ellipse</h3> 
         </div>
       </div>  
     </body>
