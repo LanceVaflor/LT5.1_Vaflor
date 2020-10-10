@@ -6,7 +6,7 @@
     <body>
       <h2>Lance Daimler E. Vaflor</h2>
       <h2>BSIT3-A</h2>
-      <h2>a href="</h2>
+      <h2>a href="https://github.com/LanceVaflor/LT5.1_Vaflor"</h2>
         <div class = "container">
           <div>
           <svg width="200" height="300" fill="#00CCFF">
